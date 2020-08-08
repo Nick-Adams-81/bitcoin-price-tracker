@@ -4,7 +4,7 @@ import Head from 'next/head';
 const Layout = (props) => (
     <div>
         <Head>
-            <title>BitzPrice</title>
+            <title>Bitcoin Price Tracker</title>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.0/cerulean/bootstrap.min.css" />
         </Head>
         <Navbar />
